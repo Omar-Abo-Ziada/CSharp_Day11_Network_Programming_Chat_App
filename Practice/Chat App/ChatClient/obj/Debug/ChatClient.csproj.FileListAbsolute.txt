@@ -1,0 +1,10 @@
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\bin\Debug\ChatClient.exe
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\bin\Debug\ChatClient.pdb
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.exe
+D:\Software_Courses\My_ITI_44\16-C_Sharp\Day11\Practice\Chat App\ChatClient\obj\Debug\ChatClient.pdb
